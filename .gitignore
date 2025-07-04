@@ -1,0 +1,53 @@
+# Global ignores
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# OS-specific files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Node.js
+node_modules/
+js/package-lock.json
+js/npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+hs_err_pid*
+
+# IntelliJ IDEA
+*.iml
+.idea/
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Mac-specific
+.AppleDouble
+.LSOverride
